@@ -1,0 +1,260 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 26, 2020, 5:23:24 PM
+    Author     : Admin
+*/
+
+.border-padding {
+    padding: 5px;
+}
+
+.form-padding {
+    padding: 5px;
+}
+
+.btn-margin {
+    margin: 5px;
+}
+
+.form-margin {
+    margin: 5px;
+}
+
+.set-max-width {
+    max-width: 500px;
+}
+
+
+.set-max-width-700 {
+    max-width: 700px;
+}
+
+.set-max-width-1000 {
+    max-width: 1000px;
+}
+
+.set-left-margin {
+    margin-left: 20px;
+}
+
+.set-center {
+    margin-left: 45%;
+}
+
+.set-all-margin-e-left {
+    margin: 20px;
+}
+
+.set-margin {
+    margin: 10px;
+}
+.font-size-default{
+    font-size: 20px;
+}
+
+.set-top-margin-lg {
+    margin-top: 50px;
+}
+
+.set-top-margin-md {
+    margin-top: 20px;
+}
+
+.header-color {
+    background-color: #031043;
+    color: white;
+}
+
+.set-padding {
+    padding: 0px;
+}
+
+.set-bottom-margin {
+    margin-bottom: 5px;
+}
+
+.set-right-margin {
+    margin-right: 20px;
+}
+
+.logout-color {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: large;
+    /*color:#000000;*/
+}
+
+body {
+    background-color: #F2F3FE;
+}
+
+.set-badge-color {
+    /*    background-color: #0E5AA8;*/
+    /*background-color: #8D8484;*/
+    font-size: 25px;
+}
+
+.set-badge-color-1 {
+    background-color: #FC2B2B;
+}
+
+.set-background-color-grey {
+    background-color: #F9F7FF;
+    padding: 40px;
+    font-size: 20px;
+}
+
+.set-background-color-comment {
+    background-color: #F9F7FF;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.set-div-background-color {
+    background-color: #FFFFFF;
+}
+
+.text-font-bold {
+    font-weight: bold;
+}
+
+.display-inline {
+    font-weight: bold;
+    display: inline;
+}
+
+.fa-thumbs-up {
+    color:black;
+}
+
+.fa-thumbs-down {
+    color:black;
+}
+
+.fa-home {
+    color:white; 
+}
+
+a.disabled {
+    pointer-events: none;
+    cursor: default;
+    color: black;
+}
+
+.link-border {
+    border-style: solid;
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+}
+
+
+.nav-text{
+    display:block;
+    padding:.5rem 1rem
+}
+
+.block {
+    display: block;
+}
+
+.card {
+    display:inline-block;
+}
+.set-delete {
+    margin-left: 50%
+}
+
+.update-padding {
+    background-color: white;
+    margin: 5px;
+}
+
+.set-text-center {
+    text-align: center;
+}
+
+.set-box-center {
+    margin-left: 200px;
+}
+
+.set-field-center {
+    margin-left: 150px;
+}
+
+.set-left-box-center {
+    margin-left: 400px;
+}
+
+.set-over-center-box {
+    margin-left: 330px;
+}
+.set-over-center-box-2 {
+    margin-left: 350px;
+}
+
+.my-h5 {
+    width: 50%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin-left: 190px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+} 
+
+.my-h5 span { 
+    background:#fff; 
+    padding:0 10px; 
+    font-weight: 400;
+}
+
+.set-login-button {
+    margin-left: 300px;
+}
+
+.login-badge {
+    background-color: #EB6A0B;
+    color: ;
+}
+
+body {
+    background-color: #FF7E1F;
+}
+
+.set-center-order {
+    margin-left: 150px !important;
+    max-width: 40em;
+}
+
+.total-font {
+    color: #1D294C;
+    font-weight: 500;
+}
+
+.font-color {
+    color: white !important;
+    font-weight: 500;
+    border-style: groove;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #FF7916 !important;
+
+}
+
+.card {    
+    padding: 5px;
+    margin: 20px;
+}
+
+.container {
+    margin-left: 10px !important;
+}
+
+.fa-home {
+    color: black;
+}
